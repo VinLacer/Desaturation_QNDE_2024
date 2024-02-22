@@ -10,4 +10,10 @@ The dataset required to properly reproduce the results is avaliable at [LINK DO 
 
 ## 3. [Getting Started]()
 
+```
+Matplotlib #For data visualization
+Scipy # for signal processing algorithms
+Numpy # for general numerical processing
+```
+
 ## 4. [Dependecies]()
