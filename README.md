@@ -4,7 +4,7 @@ This repository contains scripts which generate the results presented in ["Rever
 ## 0. [Images of the experiment]()
 Here you can see how we carry out experiments to obtain the data used in this research.
 <img
-  src="/images/default_block.jpg"
+  src="/images/default_block.jpeg"
   title="Specimen used in experiments"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
