@@ -6,6 +6,7 @@ Here you can see how we carry out experiments to obtain the data used in this re
 
 
 <img src="/images/experiment_2.jpeg" width="300" height="300"> <img src="/images/experiment_1.jpeg" width="300" height="300">
+
 <img src="/images/experiment_0.jpeg" width="300" height="300"> <img src="/images/imersion.jpeg" width="300" height="300">
 
 ## 1. Dataset
