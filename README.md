@@ -45,7 +45,7 @@ To obtain the results of the Thickness Measurement execute the following command
 ```
 pyhton3 Thickness_measurement.py
 ```
-If you want to see the results for Waveform with Synthetic data this commando will give you:
+If you want to see the results for Waveform with Synthetic data, type this:
 ```
 python3 waveform_synthetic.py
 ```
