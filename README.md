@@ -5,7 +5,7 @@ This repository contains scripts which generate the results presented in ["Rever
 Here you can see how we carry out experiments to obtain the data used in this research.
 
 
-<img src="/images/default_block.jpeg" width="300" height="300"> <img src="/images/default_block_1.jpeg" width="300" height="300">
+<img src="/images/experiment_2.jpeg" width="300" height="300"> <img src="/images/experiment_1.jpeg" width="300" height="300">
 
 ## 1. [Dataset]()
 The dataset required to properly reproduce the results is avaliable at [this Google Drive Folder](https://drive.google.com/drive/folders/1RpN-wGD9NisS9uG2H9xqZy0tvnD0YR42?usp=drive_link). After downloading the "template_waveform.npz" you must copy and paste to the project directory called "scripts" ("Desaturation_QNDE_2024/scripts") and then extract it.
