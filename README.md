@@ -24,13 +24,32 @@ The dataset required to properly reproduce the results is avaliable at [this Goo
 
 ## 2. [Getting Started]()
 
-You will need to clone the Desaturation repository. To do this just copy and paste the following commands in the terminal.
+### 2.1 You will need to clone the Desaturation repository. To do this just copy and paste the following commands in the terminal.
 
 ```
 cd ~
 git clone git@github.com:VinLacer/Desaturation_QNDE_2024.git
 cd Desaturation_QNDE_2024
 ```
+
+### 2.2 If you want to obtain the results without an IDE, just follow the bellow commands:
+
+```
+cd scripts
+```
+To obtain the results of the Thickness Measurement execute the following command:
+```
+pyhton3 Thickness_measurement.py
+```
+If you want to see the results for Waveform with Synthetic data this commando will give you:
+```
+python3 waveform_synthetic.py
+```
+With real data:
+```
+python3 waveform_real_data.py
+```
+### Remember to get the data from the Google Drive folder and install the Dependecies (see in topic 3) before do this steps
 
 
 ## 3. [Dependecies]()
