@@ -24,10 +24,11 @@ The dataset required to properly reproduce the results is avaliable at [this Goo
 
 ## 2. [Getting Started]()
 
+
+## 3. [Dependecies]()
+
 ```
 Matplotlib #For data visualization
 Scipy # for signal processing algorithms
 Numpy # for general numerical processing
 ```
-
-## 3. [Dependecies]()
