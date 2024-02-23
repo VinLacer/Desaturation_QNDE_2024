@@ -24,6 +24,14 @@ The dataset required to properly reproduce the results is avaliable at [this Goo
 
 ## 2. [Getting Started]()
 
+You will need to clone the Desaturation repository. To do this just copy and paste the following commands in the terminal.
+
+```
+cd ~
+git clone git@github.com:VinLacer/Desaturation_QNDE_2024.git
+cd Desaturation_QNDE_2024
+```
+
 
 ## 3. [Dependecies]()
 
