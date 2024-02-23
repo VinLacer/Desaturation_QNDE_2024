@@ -5,7 +5,6 @@ This repository contains scripts which generate the results presented in ["Rever
 Here you can see how we carry out experiments to obtain the data used in this research.
 <img
   src="/images/default_block.jpg"
-  alt="Alt text"
   title="Specimen used in experiments"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
