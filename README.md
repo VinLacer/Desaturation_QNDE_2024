@@ -6,7 +6,7 @@ Here you can see how we carry out experiments to obtain the data used in this re
 <img
   src="/images/default_block.jpeg"
   title="Specimen used in experiments"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
 ## 1. [Dataset]()
 The dataset required to properly reproduce the results is avaliable at [this Google Drive Folder](https://drive.google.com/drive/folders/1RpN-wGD9NisS9uG2H9xqZy0tvnD0YR42?usp=drive_link). After downloading the "data.zip" you must copy and paste to the main project directory ("Desaturation_QNDE_2024/") and then extract it.
