@@ -3,6 +3,7 @@ This repository contains scripts which generate the results presented in ["Rever
 
 ## 0. [Images of the experiment]()
 Here you can see how we carry out experiments to obtain the data used in this research.
+![image](/images/default_block.jpeg "Default Block used in experiments")
 
 
 ## 1. [Dataset]()
